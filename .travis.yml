@@ -14,7 +14,7 @@ deploy:
   region: "us-east-2"
   app: "test-aws"
   env: "TestAws-env"
-  bucket_name: "elasticbeanstalk-us-east-2-320808986062"
+  bucket_name: "elasticbeanstalk-us-east-2-115448585383"
   bucket_path: "test-aws"
   on:
     branch: master
